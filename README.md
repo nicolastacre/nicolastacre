@@ -37,11 +37,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicolastacre&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&hide=prs,issues&count_private=true&bg_color=0D1117" height="165" />
-<img src="https://streak-stats.demolab.com?user=nicolastacre&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br&background=0D1117" height="165" />
+<img src="https://streak-stats.demolab.com?user=nicolastacre&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br&background=0D1117" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastacre&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=0D1117" height="165" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolastacre&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="47.5%" />
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolastacre&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="90%" />
 
 </div>
 
