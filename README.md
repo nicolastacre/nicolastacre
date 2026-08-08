@@ -32,9 +32,9 @@ Formado em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimen
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nicolastacre&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" height="170" />
+<img src="https://streak-stats.demolab.com?user=nicolastacre&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D&locale=pt-br" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolastacre&theme=minimal&hide_border=true&area=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolastacre&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="90%" />
 
 </div>
 
