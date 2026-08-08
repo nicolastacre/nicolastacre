@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:F72585&height=220&section=header&text=Nicolas%20TC&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:F72585&height=220&section=header&text=Nicolas%20TC&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Formado%20em%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=650&lines=Explorando+HTML%2C+CSS+e+JavaScript+%F0%9F%92%BB;Aprendendo+C%23%2C+C%2B%2B+e+Python+%F0%9F%90%8D;Sempre+em+busca+de+um+novo+desafio+%F0%9F%9A%80" />
 
@@ -16,7 +16,7 @@
 
 ## 🧭 Sobre mim
 
-- 🌱 Formado em **Análise e Desenvolvimento de Sistemas**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - 🔭 Explorando **HTML, CSS, JavaScript, Node.js, C#, C++, Python e SQL**
 - ⚡ Aprendo praticando: cada projeto é um pretexto pra testar algo novo
 - 📫 Chama no e-mail: **pianistanicolas@gmail.com**
