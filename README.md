@@ -16,7 +16,7 @@
 
 ## 🧭 Sobre mim
 
-- 🌱 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🌱 Formado em **Análise e Desenvolvimento de Sistemas**
 - 🔭 Explorando **HTML, CSS, JavaScript, Node.js, C#, C++, Python e SQL**
 - ⚡ Aprendo praticando: cada projeto é um pretexto pra testar algo novo
 - 📫 Chama no e-mail: **pianistanicolas@gmail.com**
